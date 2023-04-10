@@ -180,7 +180,7 @@ html{
 /* START HOME  */
 .home{
 	height: 100vh;
-	background: url("/img/header.jpg") center center no-repeat;
+	background: url("../img/header.jpg") center center no-repeat;
 	background-size: cover;
 }
 .home .over-lay{
